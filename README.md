@@ -54,14 +54,7 @@ flutter run
 
 ## Screenshots
 
-### Community Events
-
-![Community Events screen](assets/screenshots/screen1.png)
-
-### Archived Events
-
-![Archived Events screen](assets/screenshots/screen2.png)
-
-### Community Events Page 2
-
-![Community Events page 2](assets/screenshots/screen3.png)
+|                                                            |                                                            |
+| ---------------------------------------------------------- | ---------------------------------------------------------- |
+| ![Community Events screen](assets/screenshots/screen1.png) | ![Community Events page 2](assets/screenshots/screen2.png) |
+| ![Archived Events screen](assets/screenshots/screen3.png)  |                                                            |
