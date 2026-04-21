@@ -32,7 +32,6 @@ flutter pub get
 flutter run
 ```
 
-
 ## Project Behavior
 
 - Fundraiser data is loaded through the repository layer from local mock data.
@@ -52,3 +51,17 @@ flutter run
 
 - If no items are returned for a tab/page, an empty-state widget is shown.
 - If loading fails, an error-state widget is shown with retry support.
+
+## Screenshots
+
+### Community Events
+
+![Community Events screen](assets/screenshots/screen1.png)
+
+### Archived Events
+
+![Archived Events screen](assets/screenshots/screen2.png)
+
+### Community Events Page 2
+
+![Community Events page 2](assets/screenshots/screen3.png)
